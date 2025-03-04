@@ -1,0 +1,6 @@
+.full-screen-img {
+    width: 100vw;
+    height: 100vh; /* O ajusta la altura según necesites */
+    object-fit: cover; /* Recorta la imagen para que siempre llene el espacio */
+  }
+  
